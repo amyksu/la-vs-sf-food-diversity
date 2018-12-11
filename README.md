@@ -27,9 +27,11 @@ This brings to question, what really is diversity? Is it having the most amount 
 
 As with everything in life, what I have found is up to interpretation, but, based on my original method of determination, the USA Today Diversity Index, **SF is more diverse**. 
 
-## Notes and Limitations
+## Limitations
 
 Because my project was limited in scope and information, this is just a sample of a full population that could be studied between SF and LA. With more information, it would be interesting to see how the distribution of each cuisine across a map of LA and SF and how that reflects the neighborhoods within each city. I would have also liked to have used Census data to compare the diversity of both LA and SF to see if the food diversity is an accurate reflection of the actual cities’ population diversity as well. 
+
+## Future Work
 
 Other interesting things I wish I could have done: 
 
