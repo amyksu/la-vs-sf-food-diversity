@@ -29,9 +29,10 @@ As with everything in life, what I have found is up to interpretation, but, base
 
 ## Limitations
 
-Because my project was limited in scope and information, this is just a sample of a full population that could be studied between SF and LA. With more information, it would be interesting to see how the distribution of each cuisine across a map of LA and SF and how that reflects the neighborhoods within each city. I would have also liked to have used Census data to compare the diversity of both LA and SF to see if the food diversity is an accurate reflection of the actual cities’ population diversity as well. 
+Yelp's API allows a maximum of 1,000 businesses per endpoint. As such, if there were more than 1,000 businesses in any given zip code, those would have been missed. In addition, I only used the countries/ethnicities that were listed by Yelp in their "Categories" section. As such, any restaurant or business without a given country listed in their Categories section would also have been overlooked. Because my project was limited in scope and information, this is just a sample of a full population that could be studied between SF and LA. 
 
 ## Future Work
+With more information, it would be interesting to see how the distribution of each cuisine across a map of LA and SF and how that reflects the neighborhoods within each city. I would have also liked to have used Census data to compare the diversity of both LA and SF to see if the food diversity is an accurate reflection of the actual cities’ population diversity as well. 
 
 Other interesting things I wish I could have done: 
 
